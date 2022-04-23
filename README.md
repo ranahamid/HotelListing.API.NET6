@@ -20,3 +20,11 @@ By doing this course, you will:
 - Deploy Applications and Database to Microsoft Azure
 
 Website: [Trevoir Williams | Blog](http://bit.ly/2ux9hcn)
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/25173264/ranahamid/HotelListing.API.NET6/recent-activity/58f78322e2d3d3cbcb9f1720d0d3c3ec_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/25173264/ranahamid/HotelListing.API.NET6/recent-activity/58f78322e2d3d3cbcb9f1720d0d3c3ec_timeline.svg)](https://github.com/ranahamid/HotelListing.API.NET6/commits)
+[![Issue status graph](https://images.repography.com/25173264/ranahamid/HotelListing.API.NET6/recent-activity/58f78322e2d3d3cbcb9f1720d0d3c3ec_issues.svg)](https://github.com/ranahamid/HotelListing.API.NET6/issues)
+[![Pull request status graph](https://images.repography.com/25173264/ranahamid/HotelListing.API.NET6/recent-activity/58f78322e2d3d3cbcb9f1720d0d3c3ec_prs.svg)](https://github.com/ranahamid/HotelListing.API.NET6/pulls)
+[![Trending topics](https://images.repography.com/25173264/ranahamid/HotelListing.API.NET6/recent-activity/58f78322e2d3d3cbcb9f1720d0d3c3ec_words.svg)](https://github.com/ranahamid/HotelListing.API.NET6/commits)
+[![Top contributors](https://images.repography.com/25173264/ranahamid/HotelListing.API.NET6/recent-activity/58f78322e2d3d3cbcb9f1720d0d3c3ec_users.svg)](https://github.com/ranahamid/HotelListing.API.NET6/graphs/contributors)
+
